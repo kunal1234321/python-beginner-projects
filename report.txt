@@ -1,0 +1,4 @@
+CSV ANALYSIS REPORT
+-------------------
+Total customers: 3
+Average age: 22.33
