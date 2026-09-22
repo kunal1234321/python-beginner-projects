@@ -1,6 +1,6 @@
 import csv
 
-input_file = "contacts.csv"
+input_file = input("Enter CSV file name: ")
 output_file = "cleaned_contacts.csv"
 
 with open(input_file, "r", newline="", encoding="utf-8") as file:
