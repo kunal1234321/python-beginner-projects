@@ -2,7 +2,7 @@ import os
 import shutil
 
 source = input("Enter file path: ")
-backup_folder = "backups"
+backup_folder = input("Enter backup folder: ")
 
 if not os.path.isfile(source):
     print("File not found!")
